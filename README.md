@@ -6,8 +6,9 @@ NOTE FOR OPTIFINE USERS: The Christmas Festivity mod has some problems with some
 
 
 **HOW TO (PLEASE READ!!!)**
+
 This is the fastest way to install this modpack:
-**1. **Download the 'Christmas 2023 Mod Pack-1.20.1.zip' zip file onto your desktop. (don't unzip it!)
+**1.** Download the 'Christmas 2023 Mod Pack-1.20.1.zip' zip file onto your desktop. (don't unzip it!)
 **2. **Open Curse Forge, and on the 'My Modpacks' page click '+Create Custom Profile'.
 ![image](https://github.com/ejayj/Christmas-Server-Modpack/assets/112897025/1db50cf3-f1b2-4cc0-9849-9bdca8a1edf9)
 
