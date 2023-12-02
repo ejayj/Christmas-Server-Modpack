@@ -2,7 +2,8 @@
 A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy! 
 
 
-NOTE FOR OPTIFINE USERS: The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
+**NOTE FOR OPTIFINE USERS: **
+The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
 
 
 **HOW TO (PLEASE READ!!!)**
@@ -25,6 +26,7 @@ Then you are done, and you can connect to the server ip!!!! yaaay! Lastly, simpl
 
 
 **ALTERNATIVELY:**
+
 There's a zip file for faster installation, but you can download each jar individually. 
 Alternatively, you can go to the links below and downlaod them directly or through the curseforge modpack directory.
 
