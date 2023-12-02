@@ -5,6 +5,8 @@ HOW TO (PLEASE READ!!!)
 This is the fastest way to install this modpack:
 1. Download the 'Christmas 2023 Mod Pack-1.20.1.zip' zip file onto your desktop.
 2. Open Curse Forge, and on the 'My Modpacks' page click '+Create New Profile'.
+![image](https://github.com/ejayj/Christmas-Server-Modpack/assets/112897025/ec7033c4-c46e-4fa4-8678-98a2ae852335)
+
 3. At The top, it will ask you to create or import* a previously created profile. Click import, and then click on the zip file on your desktop.
 Then you are done, and you can connect to the server ip!!!! yaaay!
 
