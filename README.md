@@ -2,7 +2,8 @@
 A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy! 
 
 
-**NOTE FOR OPTIFINE USERS: **
+NOTE FOR OPTIFINE USERS:
+
 The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
 
 
