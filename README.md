@@ -1,10 +1,6 @@
 **A modpack for christmas 2023! Runs on forge 1.20.1.**
-A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy! 
-
-
-NOTE FOR OPTIFINE USERS:
-
-The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
+A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy!
+Note: if you use optifine, it may have an issue with the Christmas Festivity mod. See below for more info!
 
 
 **HOW TO (PLEASE READ!!!)**
@@ -38,6 +34,7 @@ Snowy Spirit -> https://www.curseforge.com/minecraft/mc-mods/snowy-spirit
 moonlight lib (dependency) -> https://www.curseforge.com/minecraft/mc-mods/selene
 
 Christmas Festivity -> https://www.curseforge.com/minecraft/mc-mods/christmas-festivity
+Note: The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
 
 Frosted Friends -> https://www.curseforge.com/minecraft/mc-mods/frosted-friends
 
@@ -47,4 +44,8 @@ Italian Delight -> https://www.curseforge.com/minecraft/mc-mods/festive-delight
 
 Festive delight -> https://www.curseforge.com/minecraft/mc-mods/festive-delight
 
+
+**Optifine Users**
+
+Note: The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
 
