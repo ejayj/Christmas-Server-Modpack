@@ -10,7 +10,7 @@ This is the fastest way to install this modpack:
 3. At The top, it will ask you to create or import* a previously created profile. Click import, and then click on the zip file on your desktop.
 ![image](https://github.com/ejayj/Christmas-Server-Modpack/assets/112897025/ec7033c4-c46e-4fa4-8678-98a2ae852335)
 
-Then you are done, and you can connect to the server ip!!!! yaaay! It should look like the below upon completion:
+Then you are done, and you can connect to the server ip!!!! yaaay! Lastly, simply click play at the top right :) It should look like the below upon completion:
 ![image](https://github.com/ejayj/Christmas-Server-Modpack/assets/112897025/d58c6827-457d-41bb-9bd3-3698c12347cf)
 
 
