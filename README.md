@@ -1,8 +1,17 @@
 A modpack for christmas 2023! Runs on forge 1.20.1.
 A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy! 
-You can install these manually or automatically through curse forge. 
-There's a zip file for faster installation, or you can download each jar individually. 
-Alternatively, you can go to the links below and downlaod them independently.
+
+HOW TO (PLEASE READ!!!)
+This is the fastest way to install this modpack:
+1. Download the zip onto your desktop.
+2. Open Curse Forge, and on the 'My Modpacks' page click '+Create New Profile'.
+3. At The top, it will ask you to create or import* a previously created profile. Click import, and then click on the zip file on your desktop.
+Then you are done, and you can connect to the server ip!!!! yaaay!
+
+
+ALTERNATIVELY:
+There's a zip file for faster installation, but you can download each jar individually. 
+Alternatively, you can go to the links below and downlaod them directly or through the curseforge modpack directory.
 
 Included Mods:
 
