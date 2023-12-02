@@ -1,0 +1,98 @@
+These are just some personal notes for myself on potential modpacks baj, myself and others have considered c:
+
+More notes:
+
+cant open presents in christmas festivity mod, the interactive ones are single player only
+the others are just decor
+custom error message so when people join, and cant get in they they get a link to the modpack
+https://legacy.curseforge.com/minecraft/modpacks/ejays-christmas-modpack-2023
+notes: 
+configure discord, permissions from before, and maybe even creative zonel change jade bot to christmas
+server ip: 100.40.188.30
+
+==============
+https://nullforums.net/resources/christmas-1-8-1-20.2343/
+vanilla+ plugin 
+===================================+
+
+tab mods:
+https://www.curseforge.com/minecraft/mc-mods/better-ping-display
+https://www.curseforge.com/minecraft/mc-mods/tab-stats
+https://www.curseforge.com/minecraft/mc-mods/server-tab-info
+
+ftb teams?
+https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge
+ftb ranks
+https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge
+
+to look into:
+https://www.curseforge.com/minecraft/mc-mods/advanced-extended-creative-mode
+https://www.curseforge.com/minecraft/mc-mods/luckperms
+
+custom error message forum:
+
+
+========================================
+
+Note to self: check with other mods that the server previously had (mca, farmers delight, etc.)
+check if mods work with eachother, create mod pack, send out server details (url and info and modpack link) -> then setup permissions and build zones
+
+
+old notes:
+Included Mods:
+
+
+more possible mods
+mods me gusta!!!
+festive delight (part of farmers) -> (christmas food)https://www.curseforge.com/minecraft/mc-mods/festive-delight
+forsted friends -> (snowmen) https://www.curseforge.com/minecraft/mc-mods/frosted-friends/
+christmas festivity -> (christmas decorations/blocks) https://www.curseforge.com/minecraft/mc-mods/christmas-festivity
+skiing -> https://www.curseforge.com/minecraft/mc-mods/skiing
+
+ 
+
+1- create confectionary and festive delight is similar
+2 - christmas additions and christmas fesitvity are similar
+
+strong maybes?
+MOA Decor: holidays (christmas mobs and much decor) -> https://www.curseforge.com/minecraft/mc-mods/moa-decor-holidays
+maidens merry making (christmas tree, stockings, fire place, etc. ) -> https://www.curseforge.com/minecraft/mc-mods/maidens-merry-making
+create confectionary -> (more christmas food!!) https://www.curseforge.com/minecraft/mc-mods/create-confectionery
+
+ 
+
+other maybes:
+create interiors (chairs and furniture)-> https://www.curseforge.com/minecraft/mc-mods/interiors
+more christmas stuff, probably covered in christmas festivity -> https://www.curseforge.com/minecraft/mc-mods/spanksters-christmas-mod
+winter massacre? (snowball fights) ->https://www.curseforge.com/minecraft/mc-mods/winter-massacre
+christmas additions (mostly blocks covered in christmas festivity mod) -> https://www.curseforge.com/minecraft/mc-mods/spanksters-christmas-mod
+manyideas christmas (more, but minor christmas -> https://www.curseforge.com/minecraft/mc-mods/manyideas-christmas
+
+notes:
+theres a mod to make it always snowing called eternal winter
+theres a snow sled mod called snowy spirit
+theres a cozy mod that adds more furniture called...cozy
+side note: vending machins mod, shopkeepers with mohist?
+
+create interioirs and confectionary has a mod is a dependency: https://www.curseforge.com/minecraft/mc-mods/create
+would be nice but only goes to 1.16.5 https://www.curseforge.com/minecraft/mc-mods/joshuas-christmas-mod
+
+
+Othe others:  (of which snowy i think i wanted to use)
+Winterly - mobs, deco some other -> https://www.curseforge.com/minecraft/mc-mods/winterly
+Snowy Spirit- decorations -> https://www.curseforge.com/minecraft/mc-mods/snowy-spirit
+Noel Mod - Mad decorations -> https://www.curseforge.com/minecraft/mc-mods/noel-christmas-mod
+Shopkeepers - custom Villagers -> https://www.curseforge.com/minecraft/bukkit-plugins/shopkeepers/files
+Fat Chicken - food mod -> https://www.curseforge.com/minecraft/mc-mods/fat-chicken
+
+idk about this one https://www.curseforge.com/minecraft/modpacks/winterjam-2022
+
+note to self: add custom npcs/quest lines and mobs?|
+
+ 
+
+(requires too many dependencies but i want to do it )
+
+Create Mod -> https://www.curseforge.com/minecraft/mc-mods/create (not to be used, requires dependences 
+
+Mine Colonies - > https://www.curseforge.com/minecraft/mc-mods/minecolonies
