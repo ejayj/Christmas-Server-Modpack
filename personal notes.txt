@@ -19,6 +19,7 @@ tab mods:
 https://www.curseforge.com/minecraft/mc-mods/better-ping-display
 https://www.curseforge.com/minecraft/mc-mods/tab-stats
 https://www.curseforge.com/minecraft/mc-mods/server-tab-info
+https://www.curseforge.com/minecraft/mc-mods/ex-hud
 
 ftb teams?
 https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge
