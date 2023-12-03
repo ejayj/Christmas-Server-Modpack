@@ -8,7 +8,12 @@ custom error message so when people join, and cant get in they they get a link t
 https://legacy.curseforge.com/minecraft/modpacks/ejays-christmas-modpack-2023
 notes: 
 configure discord, permissions from before, and maybe even creative zonel change jade bot to christmas
-server ip: 100.40.188.30
+server ip: lospolloshermanos.ddns.net
+
+waiting for modpack to get approved, may have to send email.
+
+Made a secondary modpack.
+Simple modpack contains the mods in this modpack, the secondary contains additions: crayfish furniture (which may cause some people lag), the create mod and an addition to the create mod.
 
 ==============
 https://nullforums.net/resources/christmas-1-8-1-20.2343/
