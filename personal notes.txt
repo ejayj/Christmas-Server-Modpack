@@ -15,6 +15,23 @@ waiting for modpack to get approved, may have to send email.
 Made a secondary modpack.
 Simple modpack contains the mods in this modpack, the secondary contains additions: crayfish furniture (which may cause some people lag), the create mod and an addition to the create mod.
 
+
+New Mod List:
+---------------
+Snowy Spirit -> https://www.curseforge.com/minecraft/mc-mods/snowy-spirit
+moonlight lib (dependency) -> https://www.curseforge.com/minecraft/mc-mods/selene
+Christmas Festivity -> https://www.curseforge.com/minecraft/mc-mods/christmas-festivity
+Frosted Friends -> https://www.curseforge.com/minecraft/mc-mods/frosted-friends
+Farmer's Delight -> https://www.curseforge.com/minecraft/mc-mods/farmers-delight
+Festive delight -> https://www.curseforge.com/minecraft/mc-mods/festive-delight
+
+Extras:
+Create Mod -> https://www.curseforge.com/minecraft/mc-mods/create
+Create Additions Mod -> https://www.curseforge.com/minecraft/mc-mods/createaddition
+Mr Crayfish Furniture Mod -> https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+Just Enough Items Mod (not required) -> https://www.curseforge.com/minecraft/mc-mods/jei
+
+
 ==============
 https://nullforums.net/resources/christmas-1-8-1-20.2343/
 vanilla+ plugin 
