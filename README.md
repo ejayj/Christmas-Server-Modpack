@@ -1,5 +1,5 @@
-**A modpack for christmas 2023! Runs on forge 1.20.1.** Serverip: 
-lospolloshermanos.ddns.net
+**A modpack for christmas 2023! Runs on forge 1.20.1.** 
+Serverip: lospolloshermanos.ddns.net
 A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy!
 
 Note: if you use optifine, it may have an issue with the Christmas Festivity mod. See below for more info!
