@@ -5,7 +5,7 @@ A small modpack for a Christmas 2023 for myself and my friends, help yourself to
 Note: For optifine users, see the bottom of this note.
 
 
-Serverip: lospolloshermanos.ddns.net
+
 
 ================================
 
