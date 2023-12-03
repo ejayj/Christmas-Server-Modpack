@@ -40,11 +40,28 @@ Then you are done, and you can connect to the server ip!!!! yaaay! Lastly, simpl
 There's a zip file for faster installation, but you can download each jar individually. 
 Alternatively, you can go to the links below and downlaod them directly or through the curseforge modpack directory.
 
+======================
+
+Mod List(v2):
+
+---------------
+Snowy Spirit -> https://www.curseforge.com/minecraft/mc-mods/snowy-spirit
+moonlight lib (dependency) -> https://www.curseforge.com/minecraft/mc-mods/selene
+Christmas Festivity -> https://www.curseforge.com/minecraft/mc-mods/christmas-festivity
+Frosted Friends -> https://www.curseforge.com/minecraft/mc-mods/frosted-friends
+Farmer's Delight -> https://www.curseforge.com/minecraft/mc-mods/farmers-delight
+Festive delight -> https://www.curseforge.com/minecraft/mc-mods/festive-delight
+
+Extras:
+Create Mod -> https://www.curseforge.com/minecraft/mc-mods/create
+Create Additions Mod -> https://www.curseforge.com/minecraft/mc-mods/createaddition
+Mr Crayfish Furniture Mod -> https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+Just Enough Items Mod (not required) -> https://www.curseforge.com/minecraft/mc-mods/jei
 
 
 ================================
 
-Included Mods:
+V1 Included Mods:
 
 -----------------
 
