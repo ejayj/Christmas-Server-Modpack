@@ -1,5 +1,9 @@
 These are just some personal notes for myself on potential modpacks baj, myself and others have considered c:
 
+TODO:
+push v2, see if it works for everyone. if not test other verions (see version notes below)
+put warning notes in modpack description
+
 More notes:
 
 cant open presents in christmas festivity mod, the interactive ones are single player only
@@ -15,7 +19,7 @@ waiting for modpack to get approved, may have to send email.
 Made a secondary modpack.
 Simple modpack contains the mods in this modpack, the secondary contains additions: crayfish furniture (which may cause some people lag), the create mod and an addition to the create mod.
 
-
+VERSION2 
 New Mod List:
 ---------------
 Snowy Spirit -> https://www.curseforge.com/minecraft/mc-mods/snowy-spirit
@@ -31,6 +35,16 @@ Create Additions Mod -> https://www.curseforge.com/minecraft/mc-mods/createaddit
 Mr Crayfish Furniture Mod -> https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
 Just Enough Items Mod (not required) -> https://www.curseforge.com/minecraft/mc-mods/jei
 
+Versions:
+V2 Lite -> just has crayfish and just enough items mod in it on top of the originals. no create mods(Create and create addition).
+V1 + -> just has the crayfish mod in it. excludes jei, create, and create+ mods.
+
+V1 -> just has the originals in it
+V2 - > is the above with all the extras
+
+my plan is to try to push v2, and if there are issues or someone's computer isn't strong enough: then go down the version list until one works. (v2 -> v2 lite -> v1+ - >v1)
+
+If V1 is also laggy, we can exclude farmer's delight.
 
 ==============
 https://nullforums.net/resources/christmas-1-8-1-20.2343/
