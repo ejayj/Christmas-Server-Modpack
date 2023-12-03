@@ -2,12 +2,17 @@
 
 A small modpack for a Christmas 2023 for myself and my friends, help yourself to enjoy!
 
-Note: if you use optifine, it may have an issue with the Christmas Festivity mod. See below for more info!
+Note: For optifine users, see the bottom of this note.
 
 
 Serverip: lospolloshermanos.ddns.net
 
+================================
+
 **HOW TO (PLEASE READ!!!)**
+
+================================
+
 
 This is the fastest way to install this modpack:
 1. Download the 'Christmas 2023 Mod Pack-1.20.1.zip' zip file onto your desktop. (don't unzip it!)
@@ -25,13 +30,23 @@ Then you are done, and you can connect to the server ip!!!! yaaay! Lastly, simpl
 
 
 
+================================
 
 **ALTERNATIVELY:**
+
+================================
+
 
 There's a zip file for faster installation, but you can download each jar individually. 
 Alternatively, you can go to the links below and downlaod them directly or through the curseforge modpack directory.
 
+
+
+================================
+
 Included Mods:
+
+-----------------
 
 Snowy Spirit -> https://www.curseforge.com/minecraft/mc-mods/snowy-spirit
 
@@ -48,6 +63,9 @@ Italian Delight -> https://www.curseforge.com/minecraft/mc-mods/festive-delight
 
 Festive delight -> https://www.curseforge.com/minecraft/mc-mods/festive-delight
 
+
+
+================================
 
 **Optifine Users:**
 Note: The Christmas Festivity mod has some problems with some shaders, the author recommends Sildurs Vibrant Shaders 1.31 High.
