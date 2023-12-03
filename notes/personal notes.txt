@@ -2,6 +2,8 @@ These are just some personal notes for myself on potential modpacks baj, myself 
 
 TODO:
 push v2, see if it works for everyone. if not test other verions (see version notes below)
+OR
+ we can disable mods in the curse forge app if one shows to be an issue; so it may not be a problem. we'll follow the version pathing down this way.
 put warning notes in modpack description
 
 More notes:
