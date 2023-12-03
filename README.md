@@ -15,7 +15,7 @@ Note: For optifine users, see the bottom of this note.
 
 
 This is the fastest way to install this modpack:
-1. Download the 'Christmas 2023 Mod Pack-1.20.1.zip' zip file onto your desktop. (don't unzip it!)
+1. Click on the 'Christmas 2023 Mod Pack-v2.zip' zip file, and click the download icon on the top right. Download it onto your desktop. (don't unzip it!)
 2. Open Curse Forge, and on the 'My Modpacks' page click '+Create Custom Profile'.
 ![image](https://github.com/ejayj/Christmas-Server-Modpack/assets/112897025/1db50cf3-f1b2-4cc0-9849-9bdca8a1edf9)
 
